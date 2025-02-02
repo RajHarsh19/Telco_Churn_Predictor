@@ -1,0 +1,6 @@
+streamlit
+numpy
+h5py
+pickle5
+tensorflow 
+scikit-learn 
